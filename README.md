@@ -14,7 +14,7 @@ A simple and clean Hugo theme.
 ## Install
 
 ```
-git submodule add https://github.com/serkodev/holy.git themes/holy
+git submodule add https://github.com/manojbaishya/holy.git themes/holy
 ```
 
 ```
